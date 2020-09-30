@@ -1,0 +1,12 @@
+**Game of Chance**
+
+This is a project from Codecademy when I was learning how to write code in Python.
+
+#### How it works ####
+
+This is a set of popular casino games and the user starts of with £100 in the pot. They are then asked what games do they want to play and can run through as many games as long they have the cash.
+
+The pot updates after everygame if the user wins or loses and eventually if you have no money to enter you will be forced out of the game - We don't want any starving families now do we?
+
+Not all games in here are full games such as the Roulette. You do not get the option to place a bet on more bordering numbers and your winnings do not differ on how likely the win is. The wager is simply doubled and added to the original wager - Nice and easy.
+
